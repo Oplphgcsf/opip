@@ -8,7 +8,7 @@
         "MusicPlayer",
         "ArrayCore"
     ],
-    "repository": "https://github.com/The-HellBot/ArrayCore",
+    "repository": "https://github.com/Oplphgcsf/opip",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session.",

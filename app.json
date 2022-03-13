@@ -8,7 +8,7 @@
         "MusicPlayer",
         "ArrayCore"
     ],
-    "repository": "https://github.com/Oplphgcsf/opip",
+    "repository": "https://github.com/The-HellBot/ArrayCore",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session.",
@@ -46,6 +46,11 @@
             "description": "Pyrogram String Session",
             "required": false
         },
+        "BOT_TOKEN" {
+              "description": " Bot Token", 
+              "required": true
+        },
+             
         "ALIVE_PIC": {
             "description": "Alive Pic or video (telegraph link)",
             "required": false
